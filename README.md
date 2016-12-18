@@ -1,6 +1,8 @@
 # GoogleTranslate
 This project google translates a csv file asynchronously via the web API for localization testing.
 
+It nicely handles basic {token} replacements for existing projects like NGUI. Because it was written in C# and Unity, it's easy to integrate with your existing Unity games, so you can customize it for whatever you might need.
+
 How to Use
 ------
 1. Download and open the project (Unity 5.4.1).
