@@ -1,0 +1,5 @@
+FirstKey,Hello
+SecondKey,This is some text with a {token} in it.
+SpecialKey,"This line is in quotes, with a comma inside."
+MultiKey,"This {line} has multiple {tokens}, and punctuation!"
+FinalKey,"Here's the last string in the sample file."
